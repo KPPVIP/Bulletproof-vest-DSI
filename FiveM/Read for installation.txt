@@ -1,0 +1,21 @@
+Hi there random stranger on the internet
+
+------------------------------
+First thanks for downloading
+------------------------------
+
+How to install for fiveM (EUP):
+
+First you need to have the original model that is in this pack: https://www.gta5-mods.com/player/eup-vest-pack
+
+Here you can find the model: EUP VEST PACK 1.0\FILE\male vests\vest1\setup5\mp_m_freemode_01_mp_m_vinewood
+
+once you found the model you only need to replace the .ytd file.
+
+and add this to your eup-stream folder
+
+and enjoy
+
+Skin made by Falcon#9999
+
+
